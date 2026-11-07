@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://krishnarawat5664-max.github.io/BASS-DROP-/sitemap.xml
